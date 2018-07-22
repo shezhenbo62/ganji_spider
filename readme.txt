@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+# 赶集网租房爬虫
+scrapy框架 使用随机useragent和高匿ip代理
+对爬取数据进行简易格式处理并存入mongodb数据库
